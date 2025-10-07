@@ -1,0 +1,12 @@
+fastapi
+python-multipart
+scikit-learn
+joblib
+pandas
+numpy
+gunicorn
+streamlit
+plotly
+streamlit-aggrid
+uvicorn
+python-dotenv
