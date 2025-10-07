@@ -1,7 +1,7 @@
 #aqui é o app principal onde todos os roteadores serão incluídos.
 
 from fastapi import FastAPI
-from backend.routers import predict, insights
+from routers import predict, insights
 
 app = FastAPI()
 
